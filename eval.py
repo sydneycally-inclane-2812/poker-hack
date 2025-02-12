@@ -1,0 +1,2 @@
+# Evaluator for poker tournament
+# 
