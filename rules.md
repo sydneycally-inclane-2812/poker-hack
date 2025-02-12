@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Effective_hand_strength_algorithm
